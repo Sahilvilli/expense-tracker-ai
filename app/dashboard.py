@@ -184,9 +184,7 @@ with left:
         )
         st.plotly_chart(fig, use_container_width=True)
 
-    # Sample Transactions
-    st.markdown("## 📄 Sample Transactions")
-    st.dataframe(df.head(50), use_container_width=True)
+    
 
     # Category Count Table
     st.markdown("## 🧾 Category Counts")
