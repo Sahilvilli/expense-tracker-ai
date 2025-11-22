@@ -1,7 +1,7 @@
 """
 dashboard.py - Modern UI Edition (Final)
 Author: Sahil Mandavilli (E23CSEU1474)
-Clean, spacious, modern UI dashboard for Expense Tracking.
+Clean, spacious for Expense Tracking.
 """
 
 import os
