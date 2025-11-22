@@ -107,7 +107,7 @@ def safe_predict(amount, model):
 # HEADER
 # -------------------------------------
 st.title("💸 Expense Tracker Dashboard")
-st.write("### Modern UI • Powered by AI • Built by **Sahil Mandavilli (E23CSEU1474)**")
+st.write("###  Powered by AI • Built by **Sahil Mandavilli (E23CSEU1474)**")
 st.markdown("---")
 
 
